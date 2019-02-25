@@ -54,7 +54,7 @@ void d2ub(std::string input) {
 	reverse(answer.begin(), answer.end());
 	std::cout << answer << std::endl;
 }
-//doesn't work because long long doesn't allow leading 0s
+
 void sb2d(std::string input) {
 
 	char sign = input[0];
